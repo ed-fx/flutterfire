@@ -14,6 +14,7 @@ dependencies:
     path: ../../../firebase_core/firebase_core
   http: 0.12.2
   flutter_local_notifications: ^3.0.0
+  flutter_sound_lite: ^7.5.1+2
 
 dependency_overrides:
   firebase_core:
